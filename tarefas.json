@@ -1,0 +1,10 @@
+{
+	"tarefas": [
+					{"tarefa": "Tarefa 1", "check": "t"},
+					{"tarefa": "Tarefa 2", "check": "t"},
+					{"tarefa": "Tarefa 3", "check": "t"},
+					{"tarefa": "Tarefa 4", "check": "f"},
+					{"tarefa": "Tarefa 5", "check": "f"}
+			]
+	
+}

@@ -1,0 +1,14 @@
+
+
+<div class="list-group" *ngIf="(estilo!=undefined) && (projeto!=undefined)">
+
+  <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">{{projeto.nome}}</h1>
+        <p class="lead">{{projeto.descricao}}</p>
+      </div>
+    </div>
+    
+  <a *ngFor="let tarefa of tarefas; let i = index" id="{{i}}" class="{{estilo[i]}}" (click)="checkagemItem($event)">{{ tarefa.tarefa }}</a>
+
+</div>

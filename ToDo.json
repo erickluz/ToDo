@@ -1,0 +1,59 @@
+{
+	"projetos": [
+		{
+			"id": 1,
+			"nome": "Projeto TODO List",
+			"descricao": "Sistema para controlar projetos com tarefas...",
+			"itens": [
+					{"id": 1, "tarefa": "Desenhar prototipo", "check": "t"},
+					{"id": 2, "tarefa": "Construir Front-End", "check": "t"},
+					{"id": 3, "tarefa": "Construir Back-End", "check": "f"},
+					{"id": 4, "tarefa": "Realizar teste de aceitacao com usuarios", "check": "f"},
+					{"id": 5, "tarefa": "Realizar o deploy do sistema na nuvem", "check": "f"}
+			]
+		},
+		{
+			"id": 2,
+			"nome": "Aprendendo ingles",
+			"descricao": "Projeto para testar habilidades de pessoas com diferentes niveis de conhecimento em ingles",
+			"itens": [
+					{"id": 1, "tarefa": "Desenhar prototipo", "check": "t"},
+					{"id": 2, "tarefa": "Construir Front-End", "check": "t"},
+					{"id": 3, "tarefa": "Construir Back-End", "check": "f"},
+					{"id": 4, "tarefa": "Realizar teste de aceitacao com usuarios", "check": "f"},
+					{"id": 5, "tarefa": "Realizar o deploy do sistema na nuvem", "check": "f"}
+			]
+		},
+		{
+			"id": 3,
+			"nome": "Clone do Instagram",
+			"descricao": "Sistema clone da rede social Instagram",
+			"itens": [
+					{"id": 1, "tarefa": "Desenhar prototipo", "check": "t"},
+					{"id": 2, "tarefa": "Construir Front-End", "check": "t"},
+					{"id": 3, "tarefa": "Construir Back-End", "check": "f"},
+					{"id": 4, "tarefa": "Realizar teste de aceitacao com usuarios", "check": "f"},
+					{"id": 5, "tarefa": "Realizar o deploy do sistema na nuvem", "check": "f"}
+			]
+		},
+		{
+			"id": 4,
+			"nome": "E-Commerce",
+			"descricao": "Sistema de E-Commerce de produtos",
+			"itens": [
+					{"id": 1, "tarefa": "Desenhar prototipo", "check": "t"},
+					{"id": 2, "tarefa": "Construir Front-End", "check": "t"},
+					{"id": 3, "tarefa": "Construir Back-End", "check": "f"},
+					{"id": 4, "tarefa": "Realizar teste de aceitacao com usuarios", "check": "f"},
+					{"id": 5, "tarefa": "Realizar o deploy do sistema na nuvem", "check": "f"}
+			]
+		}
+	],
+	"tarefas": [
+					{"id": 21, "tarefa": "Fazer Tarefa 1", "check": "t"},
+					{"id": 22, "tarefa": "Fazer Tarefa 2", "check": "t"},
+					{"id": 23, "tarefa": "Fazer Tarefa 3", "check": "t"},
+					{"id": 24, "tarefa": "Fazer Tarefa 4", "check": "f"},
+					{"id": 25, "tarefa": "Fazer Tarefa 5", "check": "f"}
+	]
+}
