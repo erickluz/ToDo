@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 @Injectable()
 export class TodoService{
 
-    private url_api = 'http://localhost:3000/'
+    private url_api = 'http://localhost:8080/'
 
     tarefas: Array<Tarefa>
     projetos: Array<Projeto>
